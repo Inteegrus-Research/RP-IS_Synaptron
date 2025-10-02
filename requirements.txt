@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pandas
+jupyter
+brian2 # optional for advanced neuron simulation
